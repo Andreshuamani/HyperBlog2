@@ -1,0 +1,41 @@
+body{
+    background: azure;
+    font-family: Arial;
+}
+header{
+    width: 1500px;
+    height: 500px;
+    background-color: cornflowerblue;
+    margin: -10px;
+}
+
+.menu-principal_logo{
+    float: left;
+    margin-top: 20px;
+}
+
+.menu-principal_inicio{
+    
+    width: 700px;
+    height: 150px;
+}
+
+.menu-principal_inicio ol{
+
+    list-style: none;
+}
+
+.menu-principal_inicio ol li{
+
+    width: 170px;
+    height: 100px;
+    border-style: inherit;
+    float: left;
+}
+
+.menu-principal_inicio ol li a{
+
+    font-size: 14px;
+    line-height: 45px;
+
+}
